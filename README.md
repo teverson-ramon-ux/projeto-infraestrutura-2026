@@ -13,8 +13,8 @@ Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupp
 | Nome | GitHub | Responsabilidade |
 |------|--------|------------------|
 | [Teverson Ramon] | [@teverson-ramon-ux](https://github.com/teverson-ramon-ux) | GitHub e README |
-| [Nome 2] | [@usuario2](https://github.com/usuario2) | ABNT |
-| [Teverson e João] | [@teverson-ramon-ux](https://github.com/teverson-ramon-ux) | Disciplina 1 |
+| [Júlia Castro] | [@jucastro15](https://github.com/jucastro15) | ABNT |
+| [João Marcos] | [@mxrcosrx](https://github.com/mxrcosrx) | Disciplina 1 |
 | [Nome 4] | [@usuario4](https://github.com/usuario4) | Disciplina 2 |
 | [Nome 5] | [@usuario5](https://github.com/usuario5) | Disciplina 3 |
 | [Nome 6] | [@usuario6](https://github.com/usuario6) | Disciplina 4 |
