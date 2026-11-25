@@ -1,25 +1,8 @@
-# 💻 TechSupport Solutions
+# TechSupport Solutions
 
-Projeto acadêmico que simula o funcionamento de uma empresa de Tecnologia da Informação, demonstrando como a tecnologia mantém cada setor funcionando de forma integrada.
+Projeto acadêmico de **Gestão de Sistemas** que simula o funcionamento de uma empresa de Tecnologia da Informação e mostra como a tecnologia mantém cada setor funcionando de forma integrada.
 
-## 📌 Sobre o projeto
-
-Projeto desenvolvido para o curso de **[Ciência da computação]**, na **[Universidade Nove de Julho]**, sob orientação do(a) professor(a) **[Felipe Santos De Jesus]**.
-
-Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupport Solutions**, e o resultado final reúne documentação em ABNT, materiais de cada disciplina e um vídeo de apresentação.
-
-## 👥 Integrantes
-
-| Nome | GitHub | Responsabilidade |
-|------|--------|------------------|
-| [Teverson Ramon] | [@teverson-ramon-ux](https://github.com/teverson-ramon-ux) | GitHub e README |
-| [Júlia Castro] | [@jucastro15](https://github.com/jucastro15) | ABNT |
-| [João Marcos] | [@mxrcosrx](https://github.com/mxrcosrx) | Disciplina 1 |
-| [Natane Reis] | [@nnrxiss](https://github.com/usuario4) | Disciplina 2 |
-| [Nome 5] | [@usuario5](https://github.com/usuario5) | Disciplina 3 |
-| [Nome 6] | [@usuario6](https://github.com/usuario6) | Disciplina 4 |
-
-> Todos os integrantes participam do vídeo.
+Cada disciplina aplica seus conhecimentos dentro da empresa: **Arquitetura**, **Sistemas Operacionais**, **Redes** e **IoT**.
 
 ## 🏢 A empresa
 
@@ -34,10 +17,7 @@ Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupp
 - Controle de estoque e logística
 
 **Funcionamento:** segunda a sexta, das 8h às 18h, com suporte estendido conforme a necessidade.
-
 **Total de funcionários:** 50
-
-### Estrutura organizacional
 
 | Unidade | Departamentos |
 |---------|---------------|
@@ -45,7 +25,7 @@ Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupp
 | **Filial 1** | Tecnologia, Manutenção, Suporte Técnico e Service Desk |
 | **Filial 2** | Redes, Infraestrutura e Servidores |
 
-## 🖥️ Tecnologia nos departamentos
+### Tecnologia nos departamentos
 
 | Departamento | Recursos e função |
 |--------------|-------------------|
@@ -60,55 +40,52 @@ Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupp
 | Servidores | Gerenciamento de servidores, backup e monitoramento |
 | Segurança/Qualidade | Recursos para segurança e controle dos serviços |
 
+### Fluxo de atendimento
 
-**Resumo:** o Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e a Tecnologia solucionam o problema, enquanto Logística e Estoque fornecem os equipamentos necessários. As áreas de Redes e Servidores mantêm a infraestrutura tecnológica funcionando.
+```mermaid
+flowchart TD
+    A[Cliente] --> B[Service Desk<br/>recebe a solicitação]
+    B --> C[Acionamento<br/>registra e encaminha]
+    C --> D[Suporte / Tecnologia<br/>analisa e resolve]
+    D --> E[Estoque / Logística<br/>fornece ou envia equipamentos<br/>quando necessário]
+    E --> F[Solução]
+    F --> A
+```
+
+O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e a Tecnologia solucionam o problema, enquanto Logística e Estoque fornecem os equipamentos necessários. Redes e Servidores mantêm a infraestrutura funcionando.
+
+## 🗺️ Mapa das pastas
+
+| Pasta | Conteúdo |
+|-------|----------|
+| [`empresa/`](empresa) | Descrição da empresa, organograma, departamentos e fluxo de atendimento |
+| [`arquitetura/`](arquitetura) | Disciplina de Arquitetura: planilhas, diagramas e documentos |
+| [`sistemas-operacionais/`](sistemas-operacionais) | Disciplina de Sistemas Operacionais: scripts, testes e documentos |
+| [`redes/`](redes) | Disciplina de Redes: topologias, endereçamento e configurações |
+| [`iot/`](iot) | Disciplina de IoT: projeto, código e **link do Tinkercad** |
+| [`evidencias/`](evidencias) | Imagens, prints e comprovações do que foi feito |
+| [`referencias/`](referencias) | Fontes e materiais consultados |
 
 ## 📚 Disciplinas
 
-Cada disciplina aplica seus conhecimentos dentro da TechSupport Solutions.
-
 | Disciplina | Aplicação na empresa | Pasta |
 |------------|----------------------|-------|
-| [Disciplina 1] | Aplicar os conhecimentos na empresa | [`Disciplinas/Disciplina1`](Disciplinas/Disciplina1) |
-| [Disciplina 2] | Aplicar os conhecimentos na empresa | [`Disciplinas/Disciplina2`](Disciplinas/Disciplina2) |
-| [Disciplina 3] | Aplicar os conhecimentos na empresa | [`Disciplinas/Disciplina3`](Disciplinas/Disciplina3) |
-| [Disciplina 4] | Aplicar os conhecimentos na empresa | [`Disciplinas/Disciplina4`](Disciplinas/Disciplina4) |
+| Arquitetura | [descrever em uma frase] | [`arquitetura/`](arquitetura) |
+| Sistemas Operacionais | [descrever em uma frase] | [`sistemas-operacionais/`](sistemas-operacionais) |
+| Redes | [descrever em uma frase] | [`redes/`](redes) |
+| IoT | [descrever em uma frase] | [`iot/`](iot) |
 
-## 📝 ABNT
+## 🔗 Links
 
-O documento final segue as normas da faculdade. A pessoa responsável pela ABNT organiza o documento (capa, sumário, formatação, organização do conteúdo e referências), mas **o conteúdo é produzido por todo o grupo**.
+- 🎬 Vídeo (YouTube): *[adicionar link]*
+- 🔌 Simulação IoT (Tinkercad): *[adicionar link]* (também disponível na pasta [`iot/`](iot))
 
-## 🎬 Vídeo
+## 📝 Convenções do repositório
 
-Todos os integrantes participam. O vídeo apresenta, de forma resumida:
-
-**Empresa → Estrutura → Departamentos → Tecnologia → Atendimento → Suporte → Redes e Servidores → Conclusão**
-
-🔗 Link do vídeo: *[adicionar aqui quando estiver pronto]*
-
-## 📁 Estrutura do repositório
-
-```
-Projeto-TI/
-├── README.md
-├── Documentacao/     # documentos gerais do projeto
-├── Imagens/          # imagens, diagramas e organogramas
-├── Disciplinas/      # trabalhos de cada disciplina
-├── ABNT/             # documento final formatado
-└── Video/            # roteiro e arquivos do vídeo
-```
-
-## 🤝 Como colaborar
-
-1. Antes de começar, atualize seu repositório local: `git pull`
-2. Salve seus arquivos na pasta correta
-3. Envie suas alterações:
-
-```bash
-git add .
-git commit -m "descrição do que foi feito"
-git push
-```
+- Arquivos editáveis (`.xlsx`, `.docx`, `.drawio`) ficam junto das versões exportadas (`.pdf`, `.png`).
+- Nomes de arquivos claros e descritivos.
+- Commits com mensagens que identificam o que foi feito ao longo do semestre.
+- O repositório não contém nomes, RAs, senhas ou dados pessoais.
 
 ## 📄 Licença
 
