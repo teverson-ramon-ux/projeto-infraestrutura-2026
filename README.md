@@ -17,7 +17,7 @@ Cada disciplina aplica seus conhecimentos dentro da empresa fictícia **TechSupp
 | [João Marcos] | [@mxrcosrx](https://github.com/mxrcosrx) | Disciplina 1 |
 | [Natane Reis] | [@nnrxiss](https://github.com/usuario4) | Disciplina 2 |
 | [Nome 5] | [@usuario5](https://github.com/usuario5) | Disciplina 3 |
-| [Nome 6] | [@usuario6](https://github.com/usuario6) | Disciplina 4 |
+| [Luiz Felipe Vasconcelos ] | [@Luiz2s](https://github.com/Luiz2s) | Disciplina 4 |
 
 > Todos os integrantes participam do vídeo.
 
