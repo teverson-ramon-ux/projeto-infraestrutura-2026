@@ -62,7 +62,7 @@ O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e 
 | [`arquitetura/`](arquitetura) | Disciplina de Arquitetura: planilhas, diagramas e documentos |
 | [`sistemas-operacionais/`](sistemas-operacionais) | Disciplina de Sistemas Operacionais: scripts, testes e documentos |
 | [`redes/`](redes) | Disciplina de Redes: topologias, endereçamento e configurações |
-| [`iot/`](iot) | Disciplina de IoT: projeto, código e **link do Tinkercad** |
+| [`iot/`](iot) | Disciplina de IoT: projeto, código e **link do Tinkercad(https://bit.ly/4zNna0h )** |
 | [`evidencias/`](evidencias) | Imagens, prints e comprovações do que foi feito |
 | [`referencias/`](referencias) | Fontes e materiais consultados |
 
