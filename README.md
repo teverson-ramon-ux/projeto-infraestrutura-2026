@@ -78,7 +78,7 @@ O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e 
 ## 🔗 Links
 
 - 🎬 Vídeo (YouTube): *[adicionar link]*
-- 🔌 Simulação IoT (Tinkercad): *[adicionar link]* (também disponível na pasta [`iot/`](iot))
+- 🔌 Simulação IoT (Tinkercad): *[https://bit.ly/4zNna0h]* (também disponível na pasta [`iot/`](iot))
 
 ## 📝 Convenções do repositório
 
