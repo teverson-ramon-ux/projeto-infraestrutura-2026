@@ -73,7 +73,7 @@ O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e 
 | Arquitetura | [descrever em uma frase] | [`arquitetura/`](arquitetura) |
 | Sistemas Operacionais | [descrever em uma frase] | [`sistemas-operacionais/`](sistemas-operacionais) |
 | Redes | [descrever em uma frase] | [`redes/`](redes) |
-| IoT | [descrever em uma frase] | [`iot/`](iot) |
+| IoT | [Monitoramento Temperatura] | [`iot/`](iot) |
 
 ## 🔗 Links
 
