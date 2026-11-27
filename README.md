@@ -4,7 +4,7 @@ Projeto acadêmico de **Gestão de Sistemas** que simula o funcionamento de uma 
 
 Cada disciplina aplica seus conhecimentos dentro da empresa: **Arquitetura**, **Sistemas Operacionais**, **Redes** e **IoT**.
 
-## 🏢 A empresa
+## A empresa
 
 **TechSupport Solutions** é uma empresa de TI voltada para suporte técnico, infraestrutura, manutenção, logística e atendimento empresarial.
 
@@ -50,7 +50,7 @@ flowchart TD
 
 O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e a Tecnologia solucionam o problema, enquanto Logística e Estoque fornecem os equipamentos necessários. Redes e Servidores mantêm a infraestrutura funcionando.
 
-## 🗺️ Mapa das pastas
+## Mapa das pastas
 
 | Pasta | Conteúdo |
 |-------|----------|
@@ -62,7 +62,7 @@ O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e 
 | [`evidencias/`](evidencias) | Imagens, prints e comprovações do que foi feito |
 | [`referencias/`](referencias) | Fontes e materiais consultados |
 
-## 📚 Disciplinas
+## Disciplinas
 
 | Disciplina | Aplicação na empresa | Pasta |
 |------------|----------------------|-------|
@@ -71,18 +71,18 @@ O Service Desk recebe o chamado, o Acionamento direciona a demanda, o Suporte e 
 | Redes | [descrever em uma frase] | [`redes/`](redes) |
 | IoT | [Monitoramento Temperatura] | [`iot/`](iot) |
 
-## 🔗 Links
+## Links
 
 - 🎬 Vídeo (YouTube): *[adicionar link]*
 - 🔌 Simulação IoT (Tinkercad): *[https://bit.ly/4zNna0h]* (também disponível na pasta [`iot/`](iot))
 
-## 📝 Convenções do repositório
+## Convenções do repositório
 
 - Arquivos editáveis (`.xlsx`, `.docx`, `.drawio`) ficam junto das versões exportadas (`.pdf`, `.png`).
 - Nomes de arquivos claros e descritivos.
 - Commits com mensagens que identificam o que foi feito ao longo do semestre.
 - O repositório não contém nomes, RAs, senhas ou dados pessoais.
 
-## 📄 Licença
+## Licença
 
 Projeto acadêmico, sem fins comerciais.
