@@ -19,11 +19,7 @@ Cada disciplina aplica seus conhecimentos dentro da empresa: **Arquitetura**, **
 **Funcionamento:** segunda a sexta, das 8h às 18h, com suporte estendido conforme a necessidade.
 **Total de funcionários:** 52
 
-| Departamentos |
-|---------|---------------|
-| **Matriz** | Administração, Financeiro/RH, Logística/Estoque e Acionamento |
-| Tecnologia, Manutenção, Suporte Técnico e Service Desk |
-| Redes, Infraestrutura e Servidores |
+| **Matriz** | Administração, Financeiro/RH, Logística/Estoque e Acionamento | Tecnologia, Manutenção, Suporte Técnico e Service Desk | Redes, Infraestrutura e Servidores |
 
 ### Tecnologia nos departamentos
 
