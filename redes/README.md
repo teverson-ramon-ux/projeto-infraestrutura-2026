@@ -12,4 +12,4 @@ Projeto acadêmico de rede de uma unidade matriz com quatro pavimentos, desenvol
 
 ## Validação
 
-As evidências incluem DHCP, comunicação ICMP com gateway e servidores, resolução DNS, configuração de APs e VLAN/trunk do segundo andar. Não comprovam acesso externo à Internet ou todas as políticas de firewall.
+As evidências incluem DHCP, comunicação ICMP com gateway e servidores, resolução DNS, configuração de APs e VLAN/trunk do segundo andar.
